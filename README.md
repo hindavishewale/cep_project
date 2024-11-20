@@ -1,0 +1,2 @@
+# cep_project
+inventory_managment_system
