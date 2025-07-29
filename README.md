@@ -1,4 +1,6 @@
 #📦 Web-based Inventory System
+
+
 This project is a Web-based Inventory Management System designed to simplify and automate stock management for businesses. It includes powerful features like expiry tracking, real-time data handling, and an interactive dashboard — all built for usability and efficiency.
 🔑 Key Features
 ✅ Expiry Date Tracking
